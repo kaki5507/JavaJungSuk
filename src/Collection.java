@@ -2,8 +2,7 @@
 public class Collection {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("dd");
+		System.out.println("컬렉션 프로그램");
 	}
 
 }
