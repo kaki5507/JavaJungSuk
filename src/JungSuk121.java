@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class LinkedListTest {
+public class JungSuk121 {
 
 	public static void main(String[] args) {
 		Stack st = new Stack();

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ArrayListTest {
+public class JungSuk120 {
 
 	public static void main(String[] args) {
 		// 기본 길이가 10인 ArrayList를 생성
