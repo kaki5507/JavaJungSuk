@@ -13,6 +13,7 @@ public class JungSuk139 {
 //		appleBox.add(new Grape()); // 에러. Grape는 Apple의 자손이 아님
 		grapeBox.add(new Grape());
 
+		
 	}
 
 }
